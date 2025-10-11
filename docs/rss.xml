@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LuiShuiKl的博客</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io</link><description>OK，我知道我的标题拼音打错了，应该是liuShuiKLQwQ</description><copyright>LuiShuiKl的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://i1.hdslb.com/bfs/new_dyn/1bf71e2bd6281ec61d1207d3bfa7d161401530889.png@1192w_1192h.avif</url><title>avatar</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io</link></image><lastBuildDate>Fri, 10 Oct 2025 15:15:56 +0000</lastBuildDate><managingEditor>LuiShuiKl的博客</managingEditor><ttl>60</ttl><webMaster>LuiShuiKl的博客</webMaster><item><title>f的用法扩展，if else的用法，if if-else else的用法</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io/post/f-de-yong-fa-kuo-zhan-%EF%BC%8Cif%20else-de-yong-fa-%EF%BC%8Cif%20if-else%20else-de-yong-fa.html</link><description>lf的用法扩展，if else的用法，if if-else else的用法
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LuiShuiKl的博客</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io</link><description>OK，我知道我的标题拼音打错了，应该是liuShuiKLQwQ</description><copyright>LuiShuiKl的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://i1.hdslb.com/bfs/new_dyn/1bf71e2bd6281ec61d1207d3bfa7d161401530889.png@1192w_1192h.avif</url><title>avatar</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io</link></image><lastBuildDate>Sat, 11 Oct 2025 11:56:03 +0000</lastBuildDate><managingEditor>LuiShuiKl的博客</managingEditor><ttl>60</ttl><webMaster>LuiShuiKl的博客</webMaster><item><title>//switch的简单应用 //10.11</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io/post/--switch-de-jian-dan-ying-yong-%20--10.11.html</link><description>int main()
+{
+	int a = 0;
+	scanf_s('%d', &amp;a);
+	switch (a)//switch后面不能有分号,这个括号里面只能是整型或者字符型
+	{
+	case 1:	
+	case 2:
+	case 3:
+	case 4:
+	case 5:
+	{
+		printf('非周末\n');
+		break;
+	}
+	
+		
+	case 6:
+	case 7:
+	{
+
+		printf('周末\n');
+		break;
+	}
+
+	default:
+	
+	printf('输入错误\n');
+	break;
+
+
+
+
+
+
+	  
+	}
+
+
+
+
+	return 0;
+}。</description><guid isPermaLink="true">https://LHUISHUIkl.github.io/luiShuiKl.github.io/post/--switch-de-jian-dan-ying-yong-%20--10.11.html</guid><pubDate>Sat, 11 Oct 2025 11:55:31 +0000</pubDate></item><item><title>f的用法扩展，if else的用法，if if-else else的用法</title><link>https://LHUISHUIkl.github.io/luiShuiKl.github.io/post/f-de-yong-fa-kuo-zhan-%EF%BC%8Cif%20else-de-yong-fa-%EF%BC%8Cif%20if-else%20else-de-yong-fa.html</link><description>lf的用法扩展，if else的用法，if if-else else的用法
 
 
 int main()
